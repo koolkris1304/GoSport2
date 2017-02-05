@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "737917389809",
+    "firebase_url": "https://gosport-4c42c.firebaseio.com",
+    "project_id": "gosport-4c42c",
+    "storage_bucket": "gosport-4c42c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737917389809:android:7de9361b3ff4b019",
+        "android_client_info": {
+          "package_name": "com.koolkrisapps.gosport.gosport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737917389809-oehkau1j5ktun0s6bps6p08hpb2aofus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASTiioc0N5BFJ2b9msmKeG8lJqgTV3pmU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737917389809-oehkau1j5ktun0s6bps6p08hpb2aofus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
